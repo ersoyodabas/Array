@@ -10,6 +10,8 @@ namespace ConsoleAppArray
     {
         static void Main(string[] args)
         {
+            //erol deneme 
+
             string[] boys = new string[5] 
             {
                 "ali",
